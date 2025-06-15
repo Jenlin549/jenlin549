@@ -31,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" height="40" alt="AI"/>
   <img src="https://img.icons8.com/fluency/48/000000/internet-of-things.png" height="40" alt="IoT"/>
-  <img src="https://img.icons8.com/color/48/000000/microchip.png" height="40" alt="Embedded"/>
 </div>
 
 ---
