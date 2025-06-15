@@ -3,28 +3,23 @@
   <img src="https://github.com/Jenlin549/Jenlin-Profile/blob/main/photo.jpg" height="150" style="border-radius: 50%; border: 3px solid white;" alt="Jenlin's Profile Picture"/>
 </div>
 
-
 ---
-<h1 align="center" style="font-size: 2.5rem; color: #ff6f61;">👋 Hi there, I'm Jenlin J — Engineering Student & AI Enthusiast!</h1>
+<h1 align="center" style="font-size: 2.5rem; color: #ff6f61;">🚀 Hey, I'm <span style="color:#007ACC;">Jenlin J</span> — Engineering Mind with an AI Twist!</h1>
 
-
----
 ## 🚀 **About Me**
-## 🚀 **About Me**
-🎓 **ECE Undergrad @ LICET**  
-💡 Passionate about **AI + Embedded Systems** and building tech that solves real-world problems  
-📊 Exploring **Data Analytics** with tools like **Power BI, Python (Pandas), and Excel**  
-🧠 Active on **LeetCode**, solving **DSA problems daily** to sharpen problem-solving skills  
-🛠️ Skilled in **Python, C++, Arduino, ESP32-CAM, OpenCV**  
- 
-
+🎓 **ECE Undergrad @ LICET | Batch of 2027**  
+💡 Passionate about building **AI + Embedded Systems** projects that *solve real-world problems*  
+📊 Exploring **Data Analytics** with **Power BI, Pandas, and Excel**  
+🧠 Practicing **LeetCode daily** — levelling up my **DSA** game  
+⚙️ Tinkering with **Arduino, ESP32-CAM, OpenCV, C++** to build smart systems  
+🌐 Love **AIoT** and **Automation** — futuristic thinking, hands-on action 🔧
 
 ---
 ## 🏆 **LeetCode Performance**
 <div align="center" style="background: linear-gradient(135deg, #1f1c2c 10%, #928DAB 100%); padding: 20px; border-radius: 10px;">
   <h3>🚀 My LeetCode Journey</h3>
-  💡 Consistent practice = Better problem-solving skills  
-  💪 Solving Data Structures & Algorithms (DSA) daily!  
+  💡 Consistency = Confidence 💪  
+  🔍 Daily sharpening my mind through structured problem solving  
 
   <table>
   <tr>
@@ -39,10 +34,8 @@
   </tr>
 </table>
 
-
-  ✨ On the road to mastering LeetCode! 🚀  
+✨ On a mission to crack logic and conquer code! 💻
 </div>
-
 
 ---
 ## 🔥 **GitHub Stats – My Dev Journey!** 🚀
@@ -56,7 +49,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenlin549&theme=radical&hide_border=false&border_radius=10&layout=compact" width="48%" alt="Top Languages" />
 </div>
-
 
 ---
 ## 💡 **Tech Stack & Skills**
@@ -84,14 +76,13 @@
       </td>
     </tr>
   </table>
-  <h3>🚀 Building Smart, Connected, and Intelligent Systems! 🔥</h3>
+  <h3>💥 Learning. Innovating. Building the Future. 💥</h3>
 </div>
-
 
 ---
 ## 📞 **Get in Touch!**
 <div align="center">
-  <h3>🔹 Reach out anytime! Click below to connect. 🔹</h3>
+  <h3>🔹 Reach out & let's build together! 🔹</h3>
   <br>
   <a href="mailto:j.jenlin04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
