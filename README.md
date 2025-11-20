@@ -1,14 +1,13 @@
 <!-- Hero Section -->
 <div align="center">
-  <img src="https://github.com/Jenlin549/Jenlin-Profile/blob/main/Professional%20photo.png" height="160" style="border-radius: 50%; border: 3px solid #fff;" alt="Jenlin's Profile Picture"/>
-</div>
 
-<h1 align="center">🌟 Hey there! I'm Jenlin J 🌟</h1>
+
+<h1 align="center">Hey there! I'm Jenlin J </h1>
 <p align="center">🚀 Engineering Student | 👁️‍🗨️ AIoT Explorer | 🔧 Tinkerer of Smart Systems</p>
 
 ---
 
-## 🧠 Who Am I?
+##  Who Am I?
 🎓 **Electronics & Communication Engineering** @ LICET  
 🔬 Curious about how intelligence can power machines  
 🧩 Mixing **AI** + **IoT** + **Embedded Systems** to build real-world impact  
