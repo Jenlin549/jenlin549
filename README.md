@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jenlin Anne Flora J
 
-Electronics & Communication Engineering student passionate about **AI**, **Embedded Systems**, and **IoT/AIoT**.  
+Electronics & Communication Engineering student passionate about **AI**, **Embedded Systems**,**VLSI** and **IoT/AIoT**.  
 I enjoy building smart, assistive, and real-world engineering solutions using computer vision, sensors, and edge devices.
 
 ---
